@@ -3,8 +3,8 @@
 🚀 Beginner in Cybersecurity & Python  
 💻 Currently working on security tools & ethical hacking  
 📂 Check out my recent work:  
-- 🔐 [file_integrity_checker](link)
+- 🔐 [File Integrity Checker](link)
 - 🛡️ [Web Vulnerability Scanner](link)
 - 🧰 [Penetration Testing Toolkit](link)
 
-📫 Reach me at: ayan.masih1234@gmail.com
+📫 Reach me at: ayanmasih@example.com
