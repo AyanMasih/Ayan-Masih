@@ -7,4 +7,4 @@
 - 🛡️ [Web Vulnerability Scanner](https://github.com/AyanMasih/web-application-vulnerability-scanner.git)
 - 🧰 [Penetration Testing Toolkit](https://github.com/AyanMasih/penetration_testing_toolkit.git)
 
-📫 Reach me at: ayanmasih@example.com
+📫 Reach me at: ayan.masih1234@gmail.com
