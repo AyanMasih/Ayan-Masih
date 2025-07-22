@@ -4,7 +4,7 @@
 💻 Currently working on security tools & ethical hacking  
 📂 Check out my recent work:  
 - 🔐 [File Integrity Checker](https://github.com/AyanMasih/file_integrity_checker.git)
-- 🛡️ [Web Vulnerability Scanner]()
-- 🧰 [Penetration Testing Toolkit]()
+- 🛡️ [Web Vulnerability Scanner](https://github.com/AyanMasih/web-application-vulnerability-scanner.git)
+- 🧰 [Penetration Testing Toolkit](https://github.com/AyanMasih/penetration_testing_toolkit.git)
 
 📫 Reach me at: ayanmasih@example.com
