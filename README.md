@@ -3,7 +3,7 @@
 🚀 Beginner in Cybersecurity & Python  
 💻 Currently working on security tools & ethical hacking  
 📂 Check out my recent work:  
-- 🔐 [File Integrity Checker](link)
+- 🔐 [file_integrity_checker](link)
 - 🛡️ [Web Vulnerability Scanner](link)
 - 🧰 [Penetration Testing Toolkit](link)
 
